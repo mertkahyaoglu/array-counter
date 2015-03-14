@@ -1,0 +1,36 @@
+{
+  "name": "array-counter",
+  "version": "0.0.0",
+  "description": "counts unique elements of an array",
+  "homepage": "mertkahyaoglu/array-counter",
+  "author": {
+    "name": "Mert Kahyaoğlu",
+    "email": "mertkahyaoglu93@gmail.com",
+    "url": "http://mertkahyaoglu.github.io/"
+  },
+  "repository": "mertkahyaoglu/array-counter",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "array-counter",
+    "count",
+    "counter",
+    "array"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-cli": "^1.12.0",
+    "jshint-stylish": "^1.0.1",
+    "load-grunt-tasks": "^3.1.0",
+    "time-grunt": "^1.1.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
