@@ -1,7 +1,7 @@
 {
   "name": "array-counter",
-  "version": "0.0.0",
-  "description": "counts unique elements of an array",
+  "version": "1.0.0",
+  "description": "Counts unique elements of an array",
   "homepage": "mertkahyaoglu/array-counter",
   "author": {
     "name": "Mert Kahyaoğlu",
@@ -14,14 +14,14 @@
     "index.js"
   ],
   "keywords": [
-    "array-counter",
+    "array counter",
     "count",
     "counter",
     "array"
   ],
   "dependencies": {},
   "devDependencies": {
-    "grunt-cli": "^0.1.13",
+    "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^0.11.0",
     "grunt-contrib-nodeunit": "^0.4.1",
     "grunt-contrib-watch": "^0.6.1",
